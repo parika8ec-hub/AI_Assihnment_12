@@ -96,9 +96,9 @@ Data augmentation significantly improved model performance by reducing overfitti
 ## How to Run the Project
 
 ### 1. Clone the Repository
-git clone https://github.com/parika8ec-hub/AI_Assignment12.git
+git clone https://github.com/parika8ec-hub//AI_Assignment_12.git
 
-cd AI_Assignment12
+cd /AI_Assignment_12
 
 ### 2. Install Dependencies
 
