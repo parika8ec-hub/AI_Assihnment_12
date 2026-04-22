@@ -15,6 +15,16 @@ This project implements an image classification system using deep learning techn
 
 ---
 
+
+### Libraries Used
+- TensorFlow / Keras
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+---
+
 ## Project Workflow
 
 ### 1. Data Loading
@@ -95,7 +105,25 @@ cd AI_Assignment12
 pip install tensorflow numpy matplotlib seaborn scikit-learn
 
 ### 3. Open and Launch Jupyter Notebook
-```bash
 Open Assignment12.ipynb
 
-Run it and execute all cells step by step
+---
+
+### Key Features
+- Image classification using deep learning
+- Comparison of multiple model architectures
+- Data augmentation for improved performance
+- Evaluation using multiple metrics
+- Confusion matrix visualization
+
+### Challenges Addressed
+- Overfitting reduced using dropout and augmentation
+- Improved generalization using CNN
+- Performance comparison across models
+- Run it and execute all cells step by step
+
+### Future Improvements
+- Use transfer learning (VGG16, ResNet)
+- Hyperparameter tuning
+- Deployment using Flask or Streamlit
+- Real-time image classification app
